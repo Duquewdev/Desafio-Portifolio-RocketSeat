@@ -1,6 +1,6 @@
 # Portifolio-RocketSeat
 
-<h3>Nesse desafio era preciso criar um portifólio de acordo com o layout proposto pela RocketSeat (vide <a href="https://www.figma.com/file/PIa3aLBj0cR6oge00X6XZh/DD-%2F-Portfolio-(Copy)?node-id=3%3A2"> figma </a>). </h3>
+<h3>Nesse desafio era preciso criar um portifólio de acordo com o layout proposto pela RocketSeat usando apenas HTML e CSS (vide <a href="https://www.figma.com/file/PIa3aLBj0cR6oge00X6XZh/DD-%2F-Portfolio-(Copy)?node-id=3%3A2"> figma </a>). </h3>
 
 <h5> 
 
